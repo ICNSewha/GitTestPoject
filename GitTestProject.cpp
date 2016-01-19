@@ -1,15 +1,20 @@
-// Do not remove the include below
+/*
+ * Created By DANA
+ * 2016-01-19
+ */
+
 #include "GitTestProject.h"
 
+int num =0;
 
-//The setup function is called once at startup of the sketch
 void setup()
 {
-// Add your initialization code here
+	if(num == 0) false;
+	else true;
 }
 
-// The loop function is called in an endless loop
 void loop()
 {
-//Add your repeated code here
+
 }
+
